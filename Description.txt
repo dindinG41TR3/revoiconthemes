@@ -1,0 +1,32 @@
+=============================================================================
+Created  : dindinG41TR3
+Address  : Kota Banjar, Indonesia
+E-mail   : dindin_hernawan@yahoo.com
+Licenced : GNU GPL 3.0
+
+Specification
+Icons : Linux Mint (Cinnamons, Mate, Debian Cinnamon, XFCE)
+Xubuntu, Lubuntu, Ubuntu, Debian (Cinnamon, GNOME), Ubuntu GNOME
+Icons Size : 16 22 24 32 48 96 128 256 scalable
+
+Its Support Light Theme or Dark Theme
+its many icons support all distro linux... (Ubuntu,Lubuntu, Debian Linux MInt and other)
+===============================================================================
+
+I hope give me coffe :)
+Donation
+Paypal : dindin_hernawan@yahoo.com
+
+If find Bugs :
+send e-mail or comment bellow :
+How to install Icons Revo : dindin_hernawan@yahoo.com
+
+HOW INSTALL
+---------------------------------------------------
+=>Extract Revo-2017.1.tar.gz
+=>README File File For Instructure
+
+Manual Install
+Move Revo as Root User to /usr/share/icons/
+
+I hope enjoy, thanks 

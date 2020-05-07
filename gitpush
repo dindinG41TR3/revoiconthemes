@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=revoiconthemes
-version="Upload Revo-2017.1"
+version="Upload Revo-2020.1"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:dindinG41TR3/$package.git
